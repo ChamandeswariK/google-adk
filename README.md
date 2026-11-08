@@ -1,6 +1,6 @@
 # Google ADK Course
 
-Example agents built with Google's [Agent Development Kit (ADK)](https://google.github.io/adk-docs/) for the CampusX course. Each folder is a standalone agent, starting with a single built-in tool and building up to a multi-tool agent backed by a database.
+Example agents built with Google's [Agent Development Kit (ADK)](https://google.github.io/adk-docs/). Each folder is a standalone agent, starting with a single built-in tool and building up to a multi-tool agent backed by a database.
 
 All agents use the `gemini-3.5-flash` model.
 
