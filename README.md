@@ -14,6 +14,7 @@ All agents use the `gemini-3.5-flash` model.
 | `world_clock_agent` | A custom function tool (`get_current_time`) for time in any time zone |
 | `tavily_search_agent` | Using a LangChain tool (Tavily search) in ADK through `LangchainTool` |
 | `combined_tool_agents` | One agent with a function tool, Google Search, code execution and Tavily together |
+| `course_enroll_refund_agent` | A course refund assistant that reads and writes a SQLite database and keeps state between turns |
 
 ## Setup
 
